@@ -1,0 +1,197 @@
+year,item,code8_label
+2008,self,8
+2008,dem_party,8
+2008,rep_party,8
+2008,bush,8
+2008,obama,8
+2008,mccain,8
+2008,sen1,8
+2008,sen2,8
+2008,sen_cand1,8
+2008,sen_cand2,8
+2008,sen_cand1_r2,8
+2008,sen_cand2_r2,8
+2008,house_cand1,8
+2008,house_cand2,8
+2008,house_member,8
+2009,self,skipped
+2009,dem_party,skipped
+2009,rep_party,skipped
+2009,obama,skipped
+2009,gov,skipped
+2009,sen1,skipped
+2009,sen2,skipped
+2009,house_member,skipped
+2010,self,Not Sure
+2010,dem_party,Not Sure
+2010,rep_party,Not Sure
+2010,obama,Not Sure
+2010,gov,Not Sure
+2010,sen1,Not Sure
+2010,sen2,Not Sure
+2010,sen_cand1,Not Sure
+2010,sen_cand2,Not Sure
+2010,sen_cand1_r2,Not Sure
+2010,sen_cand2_r2,Not Sure
+2010,house_cand1,Not Sure
+2010,house_cand2,Not Sure
+2010,house_member,Not Sure
+2011,self,Not Sure
+2011,dem_party,Not Sure
+2011,rep_party,Not Sure
+2011,obama,Not Sure
+2011,gov,Not Sure
+2011,sen1,Not Sure
+2011,sen2,Not Sure
+2011,house_member,Not Sure
+2012,self,Not Sure
+2012,dem_party,Not Sure
+2012,rep_party,Not Sure
+2012,obama,Not Sure
+2012,romney,Not Sure
+2012,gov,Not Sure
+2012,sen1,Not Sure
+2012,sen2,Not Sure
+2012,sen_cand1,Not Sure
+2012,sen_cand2,Not Sure
+2012,house_cand1,Not Sure
+2012,house_cand2,Not Sure
+2012,house_member,Not Sure
+2013,self,Not sure
+2013,dem_party,Not sure
+2013,rep_party,Not sure
+2013,obama,Not sure
+2013,romney,Not sure
+2013,gov,Not sure
+2013,sen1,Not sure
+2013,sen2,Not sure
+2013,house_member,Not sure
+2014,self,Not sure
+2014,dem_party,Not sure
+2014,rep_party,Not sure
+2014,obama,Not sure
+2014,clinton,Not sure
+2014,gov,Not sure
+2014,sen1,Not sure
+2014,sen2,Not sure
+2014,sen_cand1,Not sure
+2014,sen_cand2,Not sure
+2014,sen_cand1_r2,Not sure
+2014,sen_cand2_r2,Not sure
+2014,house_cand1,Not sure
+2014,house_cand2,Not sure
+2014,house_member,Not sure
+2015,self,Not Sure
+2015,dem_party,Not Sure
+2015,rep_party,Not Sure
+2015,obama,Not Sure
+2015,gov,Not Sure
+2015,sen1,Not Sure
+2015,sen2,Not Sure
+2015,house_member,Not Sure
+2016,self,Not sure
+2016,dem_party,Not sure
+2016,rep_party,Not sure
+2016,obama,Not sure
+2016,clinton,Not sure
+2016,trump,Not sure
+2016,gov,Not sure
+2016,sen1,Not sure
+2016,sen2,Not sure
+2016,sen_cand1,Not sure
+2016,sen_cand2,Not sure
+2016,house_cand1,Not sure
+2016,house_cand2,Not sure
+2016,house_member,Not sure
+2017,self,Not sure
+2017,dem_party,Not sure
+2017,rep_party,Not sure
+2017,trump,Not sure
+2017,gov,Not sure
+2017,sen1,Not sure
+2017,sen2,Not sure
+2017,house_member,Not sure
+2018,self,Not sure
+2018,dem_party,Not sure
+2018,rep_party,Not sure
+2018,trump,Not sure
+2018,gov,Not sure
+2018,sen1,Not sure
+2018,sen2,Not sure
+2018,sen_cand1,Not sure
+2018,sen_cand2,Not sure
+2018,sen_cand1_r2,Not sure
+2018,sen_cand2_r2,Not sure
+2018,house_cand1,Not sure
+2018,house_cand2,Not sure
+2018,house_member,Not sure
+2019,self,Not sure
+2019,dem_party,Not sure
+2019,rep_party,Not sure
+2019,trump,Not sure
+2019,gov,Not sure
+2019,sen1,Not sure
+2019,sen2,Not sure
+2019,house_member,Not sure
+2020,self,Not sure
+2020,dem_party,Not sure
+2020,rep_party,Not sure
+2020,biden,Not sure
+2020,trump,Not sure
+2020,gov,Not sure
+2020,sen1,Not sure
+2020,sen2,Not sure
+2020,sen_cand1,Not sure
+2020,sen_cand2,Not sure
+2020,house_cand1,Not sure
+2020,house_cand2,Not sure
+2020,house_member,Not sure
+2021,self,Not sure
+2021,dem_party,Not sure
+2021,rep_party,Not sure
+2021,biden,Not sure
+2021,trump,Not sure
+2021,gov,Not sure
+2021,sen1,Not sure
+2021,sen2,Not sure
+2021,house_member,Not sure
+2022,self,Not sure
+2022,dem_party,Not sure
+2022,rep_party,Not sure
+2022,biden,Not sure
+2022,trump,Not sure
+2022,gov,Not sure
+2022,sen1,Not sure
+2022,sen2,Not sure
+2022,sen_cand1,Not sure
+2022,sen_cand2,Not sure
+2022,house_cand1,Not sure
+2022,house_cand2,Not sure
+2022,house_member,Not sure
+2023,self,Not sure
+2023,dem_party,Not sure
+2023,rep_party,Not sure
+2023,biden,Not sure
+2023,trump,Not sure
+2023,gov,Not sure
+2023,sen1,Not sure
+2023,sen2,Not sure
+2023,house_member,Not sure
+2024,self,Not sure
+2024,dem_party,Not sure
+2024,rep_party,Not sure
+2024,biden,Not sure
+2024,harris,Not sure
+2024,trump,Not sure
+2024,gov,Not sure
+2024,sen1,Not sure
+2024,sen2,Not sure
+2024,house_member,Not sure
+2025,self,Not sure
+2025,dem_party,Not sure
+2025,rep_party,Not sure
+2025,trump,Not sure
+2025,gov,Not sure
+2025,sen1,Not sure
+2025,sen2,Not sure
+2025,house_member,Not sure
