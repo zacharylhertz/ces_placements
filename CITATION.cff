@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this repository, along with the CES releases and the CES cumulative file."
+type: dataset
+title: "CES ideological placements, 2008–2025"
+authors:
+  - family-names: Hertz
+    given-names: Zachary Lorico
+repository-code: "https://github.com/zacharylhertz/ces_placements"
+date-released: 2026-11-04
+keywords:
+  - Cooperative Election Study
+  - ideology
+  - survey data
+references:
+  - type: dataset
+    title: "Cumulative CES Common Content"
+    authors:
+      - family-names: Kuriwaki
+        given-names: Shiro
+    doi: 10.7910/DVN/II2DB6
+    version: "12.0"
+    publisher:
+      name: Harvard Dataverse

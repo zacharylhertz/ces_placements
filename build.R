@@ -101,10 +101,10 @@ for (i in seq_len(nrow(years_info))) {
 
     # Name and party of the person rated, as text
     if (!is.na(row$name_var)) {
-      sub[[paste0("name_", row$item)]] <- as.character(as_factor(dat[[tolower(row$name_var)]]))
+      sub[[paste0("name_", row$item)]] <- na_if(as.character(as_factor(dat[[tolower(row$name_var)]])), "")
     }
     if (!is.na(row$party_var)) {
-      sub[[paste0("party_", row$item)]] <- as.character(as_factor(dat[[tolower(row$party_var)]]))
+      sub[[paste0("party_", row$item)]] <- na_if(as.character(as_factor(dat[[tolower(row$party_var)]])), "")
     }
     # 2008 and 2010 have no party field for candidates; the slot itself is
     # the Democratic or Republican candidate

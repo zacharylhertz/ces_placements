@@ -95,7 +95,7 @@ For some reason, **2009 does not have a "Not sure" response option**.
 
 ## Rebuilding
 
-Run `build.R`, which requires the `dataverse`, `haven` and `tidyverse` packages. The script downloads yearly files and the cumulative file from the Harvard Dataverse, which can run slow on slow Internet connections. Each year is cached in `data/raw/` as it progresses to guard against connection or download failures.
+Run `build.R`, which requires the `dataverse`, `haven` and `tidyverse` packages. The script downloads yearly files and the cumulative file from the Harvard Dataverse, which can run slow on slow Internet connections. Each year is cached in `data/raw/` as it progresses to guard against connection or download failures. The published output uses version 12.0 of the cumulative file. `build.R` downloads the newest version, so a fresh rebuild may differ slightly if the cumulative file has been updated.
 
 ## Sources
 
@@ -116,4 +116,4 @@ Each year's CES Common Content, downloaded from the Harvard Dataverse (DOIs in `
 Shiro Kuriwaki, *Cumulative CES Common Content*, Harvard Dataverse,
 doi:10.7910/DVN/II2DB6, version 12.0.
 
-Please cite the CES releases and the cumulative file when using these data.
+Please cite this repository, along with the CES releases and the cumulative file, when using these data: Hertz, Zachary Lorico. 2026. "CES ideological placements, 2008–2025." GitHub repository, https://github.com/zacharylhertz/ces_placements.
